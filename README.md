@@ -1,2 +1,2 @@
 # starter-javascript-exercicios
-JavaScripts files studying.
+JavaScripts files studying by RocketSeat
